@@ -8,7 +8,7 @@ A classic Rock Paper Scissors game playable in the browser against the computer.
 - Built with vanilla HTML, CSS, and JavaScript
 
 ## Live Demo
-[Play here](https://droopysnoopyyyy.github.io/rock-paper-scissors](https://mondritaghosh05.github.io/Rock-Paper-Scissor/)) 
+[Play here](https://droopysnoopyyyy.github.io/rock-paper-scissors](https://mondritaghosh05.github.io/Rock-Paper-Scissor/) 
 
 ## Getting Started
 Clone the repo and open `index.html` in your browser — no setup needed.
